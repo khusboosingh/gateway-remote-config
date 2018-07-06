@@ -1,0 +1,18 @@
++{
++  "gateway_conf": {
++    "gateway_ID": "B827EBFFFE7BC519",
++    "servers": [
++      {
++        "server_address": "router.eu.thethings.network",
++        "serv_port_up": 1700,
++        "serv_port_down": 1700,
++        "serv_enabled": true
++      }
++    ],
++    "ref_latitude": 17.38049313,
++    "ref_longitude": 78.48523765,
++    "ref_altitude": 612,
++    "contact_email": "khushboo100100@gmail.com",
++    "description": "ttn-gateway-practice"
++  }
++}
