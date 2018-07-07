@@ -9,9 +9,9 @@
 +        "serv_enabled": true
 +      }
 +    ],
-+    "ref_latitude": 17.38049313,
-+    "ref_longitude": 78.48523765,
-+    "ref_altitude": 612,
++    "ref_latitude": 17.4180135,
++    "ref_longitude": 78.40705200000002,
++    "ref_altitude": 602,
 +    "contact_email": "khushboo100100@gmail.com",
 +    "description": "ttn-gateway-practice"
 +  }
